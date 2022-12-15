@@ -1,0 +1,22 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    img {
+    max-width: 100%;
+    }
+    header{
+        background-color: #5d69ea;
+        min-height: 125px;
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .row-header{
+        display: flex;
+        border: red dashed 3px;
+        width: 2000px;
+        height: 40px;
+    }
